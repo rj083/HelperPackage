@@ -10,7 +10,7 @@ import Foundation
 class Hello {
     
     func helloPrinter() {
-        print("Ram")
+        print("Ram Lakhidov")
     }
     
 }
