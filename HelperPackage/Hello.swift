@@ -11,6 +11,8 @@ class Hello {
     
     func helloPrinter() {
         print("Ram Lakhidov")
+        
+        
     }
     
 }
